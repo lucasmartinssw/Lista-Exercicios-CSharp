@@ -2,7 +2,7 @@ namespace ExerciciosCS.Exercicios
 {
     public class ExercicioFintech
     {
-        public void Executar()
+        public static void Executar()
         {
             // Instanciação das contas base para simulação do sistema
             ContaBancaria contaJoao = new ContaBancaria("João", 0.00m);
@@ -69,7 +69,7 @@ namespace ExerciciosCS.Exercicios
         public List<Operacao> Extrato { get; private set; }
 
         public ContaBancaria(string titular, decimal saldoInicial)
-        {
+        { 
             Titular = titular;
             Saldo = saldoInicial;
             // Inicializa a lista vazia para evitar erro de referência nula (NullReferenceException)

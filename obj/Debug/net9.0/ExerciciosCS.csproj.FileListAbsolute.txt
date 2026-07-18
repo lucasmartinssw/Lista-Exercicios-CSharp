@@ -12,3 +12,4 @@ C:\Workspace\ExerciciosCS\obj\Debug\net9.0\refint\ExerciciosCS.dll
 C:\Workspace\ExerciciosCS\obj\Debug\net9.0\ExerciciosCS.pdb
 C:\Workspace\ExerciciosCS\obj\Debug\net9.0\ExerciciosCS.genruntimeconfig.cache
 C:\Workspace\ExerciciosCS\obj\Debug\net9.0\ref\ExerciciosCS.dll
+C:\Workspace\ExerciciosCS\obj\Debug\net9.0\ExerciciosCS.sourcelink.json
